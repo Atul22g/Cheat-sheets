@@ -14,17 +14,18 @@ To secure a challenging posting in a Reputable organization to expand my Learnin
  
 
 ### **Additional Information :)**
-- 🔭 I’m currently working on Repositories
+- 🔭 I’m currently working on Project
 - 🌱 I’m currently learning Javascript 
-- 📫 How to reach me: Instagram ~ [@atul_.8570](https://www.instagram.com/atul_.8570/)
+- 📫 How to reach me: <br>
+ Instagram ~ [@atul_22g](https://www.instagram.com/atul_22g)<br>
+ Facebook  ~ [@atul22g](https://www.facebook.com/atul22g)
 - 💬 Ask me about Anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Listening the Music 
 
 
 ### **Connect With us :)**
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://atul22g.netlify.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atul22g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atul_.8570/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atul22g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/atul22g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atul_22g/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://atul22g.netlify.app/)  
 
 ### **Others :)**
 
